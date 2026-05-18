@@ -1,1 +1,1 @@
-# mediaid_config_repo
+# configuration file for mediaid microservices
